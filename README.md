@@ -26,9 +26,9 @@
   * 언어: Python, Java, JavaScript, C, C++
   
 * 나는
-- 귀엽다
-+ 매우
-+ 많이
+    - 귀엽다
+        + 매우
+            + 많이
 
 ```python
 print("Hello")
