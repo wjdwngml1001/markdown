@@ -1,13 +1,13 @@
 # 🚀 나의 진로 & 프로젝트 활용 계획서
-
+* * *
 ## 목차
 
 1. [소개](#소개-about-me)  
-2. [프로젝트 경험](#프로젝트-경험-project-experience)  
-3. [사용 기술](#사용-기술-및-학습-계획-skills--learning-plan)  
+
+2. [사용 기술](#사용-기술-및-학습-계획-skills--learning-plan)  
 
 
----
+* * *
 
 ## 1. 소개
 
@@ -17,10 +17,23 @@
 - 📍 위치: 대한민국, 경기도 수원시  
 - 🎓 학력: 경희대학교 컴퓨터공학과 학사 예정  
 
+* * *
 
-## 5. 사용 기술 및 학습 계획 (Skills & Learning Plan)
+## 2. 사용 기술 및 학습 계획 
 
 - 사용하는 기술
 
   * 언어: Python, Java, JavaScript, C, C++
   
+* 나는
+- 귀엽다
++ 매우
++ 많이
+
+```python
+print("Hello")
+```
+
+* 이메일 링크 : <wjdwngml1001@khu.ac.kr>
+
+<img src="/juhee.jpg" width="30%" height="40%" title="px(픽셀) 크기 설정" alt="juhee"></img>
